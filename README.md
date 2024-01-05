@@ -19,7 +19,7 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 ## ⛅️ 팀원 소개 (👨‍👩‍👧‍👦구르미들)
 
 - **Back End**
-  - <h6>유재현(부리더)([https://github.com/yjhorion](https://github.com/yjhorion))</h6>
+  - 유재현(부리더)([https://github.com/yjhorion](https://github.com/yjhorion))
     1. Main달력
     2. feed생성
     3. multer-S3 이미지 업로드
@@ -100,27 +100,25 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
   <br>
 </div>
 
-## 🌧 Library
+## 📜 Library
 
-|       library       |                         description                         |
-| :-----------------: | :---------------------------------------------------------: |
-|       dotenv        |            보안적으로 문제가 있는 데이터 숨기기             |
-|        cors         |            CORS보안 정책을 해결하기 위하여 사용.            |
-|       bcrypt        |         해시함수를 사용하여 암호화 하기 위해 사용.          |
-|         joi         |                    Validate를 위해 사용.                    |
-|   @slack/webhook    |                slack 채팅을 하기 위해 사용.                 |
-|     compression     |                페이지를 압축하기 위해 사용.                 |
-|       express       |       빠르고 개방적인 개발을 위해 웹 프레임워크 사용.       |
-|    jsonwebtoken     |                    JWT Token 위해 사용.                     |
-|  morgan, wingston   |                에러 로그 관리하기 위해 사용.                |
-|       mysql2        |           Node.js에서 MySQL을 사용하기 위해 사용.           |
-|      artillery      |             서버 부하테스트 하기 위해 사용한다.             |
-|       multer        |                         파일 업로드                         |
-|      multer-s3      |                      S3에 파일 업로드                       |
-| multer-s3-transform |           upload시 자동으로 파일을 변형시켜준다.            |
-|    swagger-jsdoc    | 주석에 Swagger 태그를 추가하여 API를 문서화 하기 위해 사용. |
-| swagger-ui-express  |            API 문서를 UI 렌더링 하기 위해 사용           |
-|       helmet        |            서버 어플리케이션의 보안을 위해 사용             |
+|      Library       |                                 Description                                  |
+|:------------------:|:----------------------------------------------------------------------------:|
+|      dotenv       |        환경 변수를 관리하여 보안적으로 민감한 데이터를 안전하게 숨김         |
+|       cors        |           웹 애플리케이션의 Cross-Origin Resource Sharing 해결               |
+|      bcrypt       |          비밀번호와 같은 데이터를 안전하게 해시하여 저장하기 위함           |
+|        joi        |                      요청 데이터의 유효성 검증을 위함                        |
+|    nodemailer     |           이메일 전송 기능을 위한 Node.js 기반의 메일 전송 라이브러리          |
+|      express      |      빠르고 유연한 웹 애플리케이션 개발을 위한 Node.js 웹 프레임워크        |
+|   jsonwebtoken    |        사용자 인증과 정보 전송을 위한 JSON 기반의 Web Token 생성            |
+|     date-fns      |          날짜와 시간을 다루기 위한 포괄적이고 신뢰성 있는 라이브러리         |
+|   date-fns-tz     |               시간대를 고려한 날짜 및 시간 처리를 위한 라이브러리             |
+|     ioredis       |         Node.js에서 Redis 데이터베이스와 통신하기 위한 효율적인 라이브러리     |
+|      multer       |               파일 업로드를 처리하기 위한 Node.js 미들웨어                  |
+|    socket.io      |             실시간, 양방향 통신을 위한 Node.js 기반의 라이브러리            |
+|     node-cron     |        정해진 일정에 따라 작업을 실행하기 위한 Node.js 기반 스케줄러         |
+|     multer-s3     |             AWS S3와 통합하여 파일 업로드를 처리하는 라이브러리              |
+
 
 ## 🔎 API
 
