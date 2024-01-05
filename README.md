@@ -134,21 +134,35 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 
 ## 💣 트러블슈팅
 <details>
-<summary>프로젝트 개요</summary>
-
-여기에 프로젝트에 대한 세부 정보를 작성합니다.
-
+<summary>multerS3를 사용한 이미지 업로드</summary>
+❗ 문제 상황 : multerS3로 bucket에 Image uploadthis.client.send is not a function 에러가 발생<br>
+❗ 기존 설정의 문제점<br>
+  - 코드상의 문제를 의심했으나, 코드상엔 문제가 없는것을 확인했습니다.
+  - 이후 multer-s3와 aws-sdk모듈이 서로 호환되는 버전이어야 한다는것을 알게됐습니다.
+✅ 버전 업데이트
+  - npm을 사용하여, 서로 호환되는 버전으로 업데이트해줌으로써 해결했습니다.
+  ```javascript
+  console.log(1);
+  ```
+  
 </details>
 
 <details>
-<summary>팀 구성</summary>
+<summary>socket.io와 mongoDB 연결 이슈</summary>
 
 여기에 팀 구성원 및 역할에 대한 정보를 작성합니다.
 
 </details>
 
 <details>
-<summary>기술 스택</summary>
+<summary>EC2 인스턴스 환경에서의 Docker권한 이슈</summary>
+
+여기에 사용된 기술 스택에 대한 정보를 작성합니다.
+
+</details>
+
+<details>
+<summary>Blue/Green전략 무중단 배포 중 다운타임 이슈</summary>
 
 여기에 사용된 기술 스택에 대한 정보를 작성합니다.
 
