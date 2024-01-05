@@ -1,16 +1,33 @@
-# ☁ Cloud NINE
+# ☁ NINE Cloud
 
 ## ✍🏻 서비스 소개
-Cloud NINE은 ,그날의 감정을 기록하고, 다른사람들과 그 감정을 그림과 일기로 공유하는 서비스입니다.
+NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌아보고 AI 솔루션을 받는 감정일기 서비스입니다.
+## 
+## 🌞프로젝트 소개
+[FE] : CRUD, AI접목, Socket을 이용한 채팅기능, 무한스크롤, canvas사용, OAuth구현
+[BE] : CRUD, OAuth로그인, Socket을 활용한 채팅기능, S3를 활용한 이미지 업로드, 자동화배포 CI/CD에 Docker, Nginx를 추가해 무중단배포 파이프라인 구축
+
+[사용자] : 바쁘게 살아가는 현대인들을 위해, 자신의 하루 감정을 날씨와 연관 지어 돌아볼 수 있는 다이어리
+##
+
+## 📂 Project GitHub
+[FE] : https://github.com/final-project-hh99/front.git
+[BE] : https://github.com/Lee-chan0/final_project_back
 ## 
 
-## ⛅️ 팀원 소개
+## ⛅️ 팀원 소개 (👨‍👩‍👧‍👦구르미들)
 
 - **Back End**
   - 유재현(부리더)([https://github.com/yjhorion](https://github.com/yjhorion))
-  - SAASD : 312344
+    1. Main달력
+    2. feed생성
+    3. multer-S3 이미지 업로드
+    4. socket.io 채팅기능
   - 이찬영([https://github.com/Lee-chan0](https://github.com/Lee-chan0))
-  - DSDSA : ASD123
+    1. SignIn, SignUp
+    2. OAuth
+    3. CI/CD, 인프라
+    4. DevOps
 - **Front End**
   - 주철민(리더)([https://github.com/cheolminJOO](https://github.com/cheolminJOO))
   - 송지우([https://github.com/nsong113](https://github.com/nsong113))
