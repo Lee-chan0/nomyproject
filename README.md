@@ -143,10 +143,9 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
   - npm을 사용하여, 서로 호환되는 버전으로 업데이트해줌으로써 해결했습니다.
   ```javascript
   console.log(1);
-  ```
   
 </details>
-
+  ```
 <details>
 <summary>socket.io와 mongoDB 연결 이슈</summary>
 
