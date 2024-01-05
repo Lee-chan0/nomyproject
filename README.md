@@ -19,7 +19,7 @@ Cloud NINE은 ,그날의 감정을 기록하고, 다른사람들과 그 감정�
 
 ## ❄️ Project Architecture
 
-![Architecture](./readme_images/project_architecture0.2.png)
+![Untitled Diagram.drawio (3).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/5d9a3881-fc33-488d-9a19-a0b65f1c48d2/Untitled_Diagram.drawio_(3).png)
 
 ## Stacks
 
