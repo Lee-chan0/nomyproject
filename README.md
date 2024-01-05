@@ -7,14 +7,14 @@ Cloud NINE은 ,그날의 감정을 기록하고, 다른사람들과 그 감정�
 ## ⛅️ 팀원 소개
 
 - **Back End**
-  - 유재현(부리더)([https://github.com/jongwanra](https://github.com/jongwanra))
-  - 이찬영([https://github.com/fnrkp089](https://github.com/fnrkp089))
+  - 유재현(부리더)([https://github.com/yjhorion](https://github.com/yjhorion))
+  - 이찬영([https://github.com/Lee-chan0](https://github.com/Lee-chan0))
 - **Front End**
-  - 주철민(리더)([https://github.com/jinseoIT](https://github.com/jinseoIT))
-  - 송지우([https://github.com/dam-lee](https://github.com/dam-lee))
-  - 한덕용([https://github.com/kokyusik91](https://github.com/kokyusik91))
+  - 주철민(리더)([https://github.com/cheolminJOO](https://github.com/cheolminJOO))
+  - 송지우([https://github.com/nsong113](https://github.com/nsong113))
+  - 한덕용([https://github.com/HyperQuanx](https://github.com/HyperQuanx))
 - **Designer**
-  - 이승연()
+  - 이승연([20211009@sungshin.ac.kr](20211009@sungshin.ac.kr))
 
 ## ❄️ Project Architecture
 
