@@ -19,7 +19,7 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 ## ⛅️ 팀원 소개 (👨‍👩‍👧‍👦구르미들)
 
 - **Back End**
-  - 유재현(부리더)([https://github.com/yjhorion](https://github.com/yjhorion))
+  - <h6>유재현(부리더)</h6>([https://github.com/yjhorion](https://github.com/yjhorion))
     1. Main달력
     2. feed생성
     3. multer-S3 이미지 업로드
