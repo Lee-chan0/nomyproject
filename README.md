@@ -94,13 +94,11 @@ Cloud NINE은 ,그날의 감정을 기록하고, 다른사람들과 그 감정�
 
 ## 🔎 API
 
-[Notion API Address](https://humble-impulse-a58.notion.site/API-ea80617bb56e4488807877a15ad2a3c2)
+[Notion API Address](https://www.notion.so/API-22f9456b7c254576b2a9cbc101c603d1)
 
-![backend-at]()
-
-![API-1](readme_images/https://github.com/Lee-chan0/nomyproject/assets/147553654/7bfd5d4c-59a7-4f3a-a368-411c96a2a55e)
-![API-2](readme_images/api-2.png)
-![API-3](readme_images/api-3.png)
+![캡처2](https://github.com/Lee-chan0/nomyproject/assets/147553654/b42a681c-1e56-4a08-94de-b601727e39a3)
+![캡처3](https://github.com/Lee-chan0/nomyproject/assets/147553654/980c3de8-3e8f-46b9-bd2c-2e5a0aedf415)
+![캡처4](https://github.com/Lee-chan0/nomyproject/assets/147553654/3ff9b052-0a8b-401c-b714-823ab3920227)
 
 ## 📋 ERD
 
