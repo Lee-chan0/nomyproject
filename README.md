@@ -31,8 +31,17 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
     4. DevOps
 - **Front End**
   - 주철민(리더)([https://github.com/cheolminJOO](https://github.com/cheolminJOO))
+    1. Main달력
+    2. 상세페이지
+    3. 마이페이지
   - 송지우([https://github.com/nsong113](https://github.com/nsong113))
+    1. post페이지
+    2. GPT(AI)
+    3. Community페이지
   - 한덕용([https://github.com/HyperQuanx](https://github.com/HyperQuanx))
+    1. OAuth
+    2. Sign In/Up
+    3. WebSocket
 - **Designer**
   - 이승연([20211009@sungshin.ac.kr](20211009@sungshin.ac.kr))
 
