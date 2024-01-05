@@ -47,7 +47,8 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 
 ## ❄️ Project Architecture
 
-![Untitled Diagram.drawio (3).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/5d9a3881-fc33-488d-9a19-a0b65f1c48d2/Untitled_Diagram.drawio_(3).png)
+![Untitled Diagram drawio (3)](https://github.com/Lee-chan0/nomyproject/assets/147553654/40f530a0-16cd-4abd-9c66-c57508d5c5d4)
+
 
 ## Stacks
 
