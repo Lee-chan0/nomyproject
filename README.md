@@ -133,7 +133,8 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 
 ## 📋 ERD
 
-![drawSQL-finalproject-export-2023-12-21](https://github.com/Lee-chan0/nomyproject/assets/147553654/882e770c-f5b9-4b0b-8053-a73578bc256d)
+![drawSQL-finalproject-export-2023-12-21](https://github.com/Lee-chan0/nomyproject/assets/147553654/7d32127c-9894-4246-89a4-8a10541385b8)
+
 
 ## 💣 트러블슈팅
 <details>
