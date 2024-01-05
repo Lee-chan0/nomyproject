@@ -1,89 +1,75 @@
-# 🌈 InSplace-BE
+# ☁ Cloud NINE
 
 ## ✍🏻 서비스 소개
 ## 
+
+Cloud NINE은 ,그날의 감정을 기록하고, 다른사람들과 그 감정을 그림과 일기로 공유하는 서비스입니다.
+
+## ⛅️ 팀원 소개
+
+- **Back End**
+  - 유재현(부리더)([https://github.com/jongwanra](https://github.com/jongwanra))
+  - 이찬영([https://github.com/fnrkp089](https://github.com/fnrkp089))
+- **Front End**
+  - 주철민(리더)([https://github.com/jinseoIT](https://github.com/jinseoIT))
+  - 송지우([https://github.com/dam-lee](https://github.com/dam-lee))
+  - 한덕용([https://github.com/kokyusik91](https://github.com/kokyusik91))
+- **Designer**
+  - 이승연()
+
+## ❄️ Project Architecture
+
+![Architecture](./readme_images/project_architecture0.2.png)
+
+## Stacks
+
 <div align="center">
-  <h1>🕸️ Tech Stack</h1>
+  <h1>🛠 Tech Stack</h1>
   <p>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/express-FF6C37?style=for-the-badge&logo=express&logoColor=white">
   </p>
 </div>
 
 <div align="center">
   <h1>🗄️ DB / ORM</h1>
   <p>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mongoDB-12924F?style=for-the-badge&logo=MongoDB&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-C92B2B?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/Prisma-2A7AE4?style=for-the-badge&logo=Prisma&logoColor=white">
   </p>
 </div>
 
 <div align="center">
   <h1>🖥️ CI/CD & DevOps</h1>
   <p>
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/github-6E5494?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker%20Compose-111111?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20CodeDeploy-FF7F00?style=for-the-badge&logo=aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker%20Compose-DA70D6?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   </p>
 </div>
 
 <div align="center">
   <h1>📜 Library & Monitoring & Communication</h1>
   <p>
-    <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+    <img src="https://img.shields.io/badge/socket.io-FF4081?style=for-the-badge&logo=socket.io&logoColor=white">
+    <img src="https://img.shields.io/badge/JWT-00B2A9?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+    <img src="https://img.shields.io/badge/Swagger-E3E569?style=for-the-badge&logo=swagger&logoColor=white">
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-8B8B8B?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-E01E5A?style=for-the-badge&logo=slack&logoColor=white">
   </p>
   <br>
 </div>
-
-InSplace는 In Seoul Place의 약자로,
-내/외국인에게 당장 오늘 뭐 할지, 어디 갈지에 대한 고민을 현재 위치와 날씨를 기반으로 장소를 추천해주는 서비스입니다.
-
-## ⛅️ 팀원 소개
-
-- **Back End**
-  - 나종완(팀장)([https://github.com/jongwanra](https://github.com/jongwanra))
-  - 이병관([https://github.com/fnrkp089](https://github.com/fnrkp089))
-  - 김기태([https://github.com/TAE6919](https://github.com/TAE6919))
-- **Front End**
-  - 양진성([https://github.com/jinseoIT](https://github.com/jinseoIT))
-  - 이미다([https://github.com/dam-lee](https://github.com/dam-lee))
-  - 고규식([https://github.com/kokyusik91](https://github.com/kokyusik91))
-- **Designer**
-  - 이미주
-  - 이경미
-
-## ❄️ Project Architecture
-
-![Architecture](./readme_images/project_architecture0.2.png)
-
-## 🛠 Tech Stack
-
-- Express.js
-- MySQL
-- Nginx Ingress
-- Code Pipeline
-- Code Deploy
-- Swagger
-- Docker
-- Kubernetes
-- EC2
-- S3
-- RDS
 
 ## 🌧 Library
 
@@ -104,7 +90,7 @@ InSplace는 In Seoul Place의 약자로,
 |      multer-s3      |                      S3에 파일 업로드                       |
 | multer-s3-transform |           upload시 자동으로 파일을 변형시켜준다.            |
 |    swagger-jsdoc    | 주석에 Swagger 태그를 추가하여 API를 문서화 하기 위해 사용. |
-| swagger-ui-express  |            API 문서를 UI 렌더링 하기 위해 사용.             |
+| swagger-ui-express  |            API 문서를 UI 렌더링 하기 위해 사용           |
 |       helmet        |            서버 어플리케이션의 보안을 위해 사용             |
 
 ## 🔎 API
