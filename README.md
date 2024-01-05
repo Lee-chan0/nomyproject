@@ -1,5 +1,5 @@
 # ☁ NINE Cloud
-
+![main_image](https://github.com/Lee-chan0/nomyproject/assets/147553654/7d067198-cbd1-4824-abca-4de724fd2d07)
 ## ✍🏻 서비스 소개
 NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌아보고 AI 솔루션을 받는 감정일기 서비스입니다.
 ## 
@@ -130,6 +130,5 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 
 ## 📋 ERD
 
-![ERD](./readme_images/erd2.png)
+![drawSQL-finalproject-export-2023-12-21](https://github.com/Lee-chan0/nomyproject/assets/147553654/882e770c-f5b9-4b0b-8053-a73578bc256d)
 
-## ✅ 향후 프로젝트의 목표
