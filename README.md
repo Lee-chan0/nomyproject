@@ -2,8 +2,7 @@
 
 ## ✍🏻 서비스 소개
 ## 
-<h1>📜Tech Stack</h1>
-<div align=center>
+<div align=center><h1>🕸️Tech Stack</h1>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -26,7 +25,7 @@
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/Docker%20Compose-111111?style=for-the-badge&logo=docker&logoColor=white">
 </div>
-<div align=center><h1>Library & Monitoring</h1>
+<div align=center><h1>📜Library & Monitoring</h1>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
