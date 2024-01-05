@@ -142,11 +142,16 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
   - 이후 multer-s3와 aws-sdk모듈이 서로 호환되는 버전이어야 한다는것을 알게됐습니다.
 ✅ 버전 업데이트
   - npm을 사용하여, 서로 호환되는 버전으로 업데이트해줌으로써 해결했습니다.
-  ```javascript
-  console.log(1);
   
+```javascript
+// package.json
+...
+"aws-sdk" : "^2.1520.0",
+"multer-s3" : "^3.0.1",
+...
+```
 </details>
-  ```
+
 <details>
 <summary>socket.io와 mongoDB 연결 이슈</summary>
 
@@ -167,10 +172,3 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 여기에 사용된 기술 스택에 대한 정보를 작성합니다.
 
 </details>
-<details>
-<summary>코드 예시</summary>
-
-```javascript
-console.log('Hello, World!');
-</details>
-```
