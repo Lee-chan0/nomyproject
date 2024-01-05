@@ -12,8 +12,8 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 ##
 
 ## 📂 Project GitHub
-[Front-End] : https://github.com/final-project-hh99/front.git<br>
-[Back-End] : https://github.com/Lee-chan0/final_project_back
+<strong>[Front-End]</strong> : https://github.com/final-project-hh99/front.git<br>
+<strong>[Back-End]</strong> : https://github.com/Lee-chan0/final_project_back
 ## 
 
 ## ⛅️ 팀원 소개 (👨‍👩‍👧‍👦구르미들)
