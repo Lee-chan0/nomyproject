@@ -125,9 +125,11 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 
 [Notion API 명세서 주소 => ](https://www.notion.so/API-22f9456b7c254576b2a9cbc101c603d1)
 
-![캡처2](https://github.com/Lee-chan0/nomyproject/assets/147553654/b42a681c-1e56-4a08-94de-b601727e39a3)
-![캡처3](https://github.com/Lee-chan0/nomyproject/assets/147553654/980c3de8-3e8f-46b9-bd2c-2e5a0aedf415)
-![캡처4](https://github.com/Lee-chan0/nomyproject/assets/147553654/3ff9b052-0a8b-401c-b714-823ab3920227)
+
+![swagger1](https://github.com/Lee-chan0/nomyproject/assets/147553654/f06f41de-537a-4d8d-9bea-c63504c528d4)
+![swagger2](https://github.com/Lee-chan0/nomyproject/assets/147553654/ee1a0c9a-fd82-4bec-aa53-fe660985500a)
+![swagger3](https://github.com/Lee-chan0/nomyproject/assets/147553654/0d736c5e-6d8b-4028-ab28-0bc2d487d258)
+
 
 ## 📋 ERD
 
