@@ -132,3 +132,24 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 
 ![drawSQL-finalproject-export-2023-12-21](https://github.com/Lee-chan0/nomyproject/assets/147553654/882e770c-f5b9-4b0b-8053-a73578bc256d)
 
+## 💣 트러블슈팅
+<details>
+<summary>프로젝트 개요</summary>
+
+여기에 프로젝트에 대한 세부 정보를 작성합니다.
+
+</details>
+
+<details>
+<summary>팀 구성</summary>
+
+여기에 팀 구성원 및 역할에 대한 정보를 작성합니다.
+
+</details>
+
+<details>
+<summary>기술 스택</summary>
+
+여기에 사용된 기술 스택에 대한 정보를 작성합니다.
+
+</details>
