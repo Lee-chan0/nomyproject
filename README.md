@@ -123,7 +123,7 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 
 ## 🔎 API
 
-[Notion API Address](https://www.notion.so/API-22f9456b7c254576b2a9cbc101c603d1)
+[Notion API 명세서 주소 => ](https://www.notion.so/API-22f9456b7c254576b2a9cbc101c603d1)
 
 ![캡처2](https://github.com/Lee-chan0/nomyproject/assets/147553654/b42a681c-1e56-4a08-94de-b601727e39a3)
 ![캡처3](https://github.com/Lee-chan0/nomyproject/assets/147553654/980c3de8-3e8f-46b9-bd2c-2e5a0aedf415)
