@@ -8,7 +8,9 @@ Cloud NINE은 ,그날의 감정을 기록하고, 다른사람들과 그 감정�
 
 - **Back End**
   - 유재현(부리더)([https://github.com/yjhorion](https://github.com/yjhorion))
+  - SAASD : 312344
   - 이찬영([https://github.com/Lee-chan0](https://github.com/Lee-chan0))
+  - DSDSA : ASD123
 - **Front End**
   - 주철민(리더)([https://github.com/cheolminJOO](https://github.com/cheolminJOO))
   - 송지우([https://github.com/nsong113](https://github.com/nsong113))
