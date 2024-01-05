@@ -8,6 +8,7 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 
 <strong>[Back-End]</strong> : CRUD, OAuth로그인, Socket을 활용한 채팅기능, S3를 활용한 이미지 업로드, 자동화배포 CI/CD에 Docker, Nginx를 추가해 무중단배포 파이프라인 구축
 
+
 <strong>[USER]</strong> : 바쁘게 살아가는 현대인들을 위해, 자신의 하루 감정을 날씨와 연관 지어 돌아볼 수 있는 다이어리
 ##
 
@@ -166,3 +167,10 @@ NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌
 여기에 사용된 기술 스택에 대한 정보를 작성합니다.
 
 </details>
+<details>
+<summary>코드 예시</summary>
+
+```javascript
+console.log('Hello, World!');
+</details>
+```
