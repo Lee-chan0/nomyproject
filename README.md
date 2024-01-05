@@ -4,7 +4,7 @@
 NINE Cloud는 매일 하나의 일기를 작성하며 자신의 감정을 되돌아보고 AI 솔루션을 받는 감정일기 서비스입니다.
 ## 
 ## 🌞프로젝트 소개
-[FE] : CRUD, AI접목, Socket을 이용한 채팅기능, 무한스크롤, canvas사용, OAuth구현
+<strong>[FE]</strong> : CRUD, AI접목, Socket을 이용한 채팅기능, 무한스크롤, canvas사용, OAuth구현
 
 [BE] : CRUD, OAuth로그인, Socket을 활용한 채팅기능, S3를 활용한 이미지 업로드, 자동화배포 CI/CD에 Docker, Nginx를 추가해 무중단배포 파이프라인 구축
 
